@@ -236,6 +236,7 @@ Fork the GitHub repo https://github.com/jwasham/coding-interview-university by c
 
 `git checkout -b progress`
 
+Set upstream to `jwasham`  
 `git remote add jwasham https://github.com/jwasham/coding-interview-university`
 
 `git fetch --all`
