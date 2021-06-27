@@ -6,3 +6,6 @@
 	- [Computer Organization & Systems](http://web.stanford.edu/class/cs107/)
 	- [CS 109: Probability for Computer Scientists, Summer 2021](http://web.stanford.edu/class/cs109/)
 	- [CS161 DESIGN AND ANALYSIS OF ALGORITHMS](http://web.stanford.edu/class/cs161/)
+2. [ossu/computer-science](https://github.com/ossu/computer-science)
+3. [ossu/bioinformatics](https://github.com/ossu/bioinformatics)
+ 
