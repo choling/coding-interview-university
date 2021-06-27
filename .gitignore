@@ -1,3 +1,6 @@
+# untrack password 
+.secrets
+
 .idea
 *.iml
 personal-9894.md
