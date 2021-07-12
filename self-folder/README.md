@@ -9,6 +9,9 @@
 	- [Ansible 101 by Jeff Geerling](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series)
 	- [Ansible tutorial](https://chusiang.gitbooks.io/automate-with-ansible/content/05.how-to-practive-the-ansible-with-docker.html)
 	- [30 days Ansible and Jenkins](https://tso-liang-wu.gitbook.io/learn-ansible-and-jenkins-in-30-days/ansible/ansible/ansible-intro)
+2. vuejs
+	- [codecademy](https://www.codecademy.com/courses/learn-vue-js/lessons/vue-introduction/exercises/front-end-frameworks#)
+	
 
 ### Computer Science stack
 1. Jessica Su from [Standford](https://cs.stanford.edu/~jtysu/), [Quora](https://www.quora.com/profile/Jessica-Su)
